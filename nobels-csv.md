@@ -1,6 +1,6 @@
 Nobel winners
 ================
-Mine Çetinkaya-Rundel
+Naomi Ekas
 
 ``` r
 library(tidyverse)
